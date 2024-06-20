@@ -1,4 +1,5 @@
 # rajdighe-demo
+
 This is my first Git repo
-<br/> 
-Author- Raj Dighe
+<br/>
+Author- Raj Shirish Dighe
